@@ -1,3 +1,3 @@
 # El-Bunker
 
-Si estas accediendo a este directorio antes del año 9 GRB no encontrarás nada.
+Si estas accediendo a este directorio antes del año de comienzo de la Gran Revuelta Bot GRB, aquí no encontrarás nada.
